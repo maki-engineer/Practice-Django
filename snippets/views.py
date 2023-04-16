@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse, HttpResponseForbidden
-from snippets.models import Snippet
+from snippets.models import Snippet, Comment
 from snippets.forms import SnippetForm
 
 def top(request):
@@ -38,6 +38,13 @@ def snippet_edit(request, snippet_id):
     return render(request, "snippets/snippet_edit.html", {"form": form})
 
 def snippet_detail(request, snippet_id):
-  snippet = get_object_or_404(Snippet, pk=snippet_id)
+  snippet  = get_object_or_404(Snippet, pk=snippet_id)
+  comments = Comment.objects.filter(commented_to_id=snippet_id)
 
-  return render(request, "snippets/snippet_detail.html", {"snippet": snippet})
+  return render(request, "snippets/snippet_detail.html", {"snippet": snippet, "comments": comments})
+
+def comment_new(request, snippet_id):
+  if request.method == 'POST':
+    comment = Comment.objects.create()
+    comment.save()
+    return redirect('snippet_detail', snippet_id=snippet_id)
