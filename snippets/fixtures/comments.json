@@ -1,0 +1,272 @@
+[
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  },
+  {
+    "model": "snippets.comment",
+    "fields": {
+      "text": "ダミーデータ用のコメントです。",
+      "commented_at": "2023-04-23 12:00:00",
+      "commented_by_id": 1,
+      "commented_to_id": 3
+    }
+  }
+]

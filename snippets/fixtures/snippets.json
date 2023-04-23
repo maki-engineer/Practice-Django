@@ -1,0 +1,332 @@
+[
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  },
+  {
+    "model": "snippets.snippet",
+    "fields": {
+      "title": "Djangoでダミーデータを生成してみよう。",
+      "code": "print(\"Hello, World.\")",
+      "description": "ダミーデータを生成することが出来るか試してみます。",
+      "created_at": "2023-04-23 12:00:00",
+      "updated_at": "2023-04-23 12:00:00",
+      "created_by_id": 1
+    }
+  }
+]
