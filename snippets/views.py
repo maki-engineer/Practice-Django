@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse, HttpResponseForbidden
+from django.views import generic
 from snippets.models import Snippet, Comment
 from snippets.forms import SnippetForm
 
@@ -8,6 +9,14 @@ def top(request):
   snippets = Snippet.objects.all()
 
   return render(request, "snippets/top.html", {"snippets": snippets})
+
+class SnippetListScroll(generic.ListView):
+  model         = Snippet
+  template_name = 'snippets/top.html'
+  paginate_by   = 20
+
+  def get_query_set(self):
+    return self.model.objects.all()
 
 @login_required
 def snippet_new(request):
