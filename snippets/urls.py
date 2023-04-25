@@ -9,4 +9,4 @@ urlpatterns = [
 ]
 
 router = routers.DefaultRouter()
-router.register(r'snippets', views.SnippetViewSet)
+router.register('snippets', views.SnippetViewSet)
