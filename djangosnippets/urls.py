@@ -18,10 +18,12 @@ from django.contrib import admin
 from django.urls import path, include
 
 from snippets.views import top
+from snippets.urls import router as snippet_router
 
 urlpatterns = [
     path('', top, name='top'),
     path('snippets/', include('snippets.urls')),
+    path('api/', include(snippet_router.urls)),
     path('accounts/', include('accounts.urls')),
     path('admin/', admin.site.urls),
 ]

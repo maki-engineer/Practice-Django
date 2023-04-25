@@ -3,6 +3,8 @@ from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse, HttpResponseForbidden
 from snippets.models import Snippet
 from snippets.forms import SnippetForm
+from rest_framework import viewsets, filters
+from .serializer import SnippetSerializer
 
 def top(request):
   snippets = Snippet.objects.all()
@@ -41,3 +43,7 @@ def snippet_detail(request, snippet_id):
   snippet = get_object_or_404(Snippet, pk=snippet_id)
 
   return render(request, "snippets/snippet_detail.html", {"snippet": snippet})
+
+class SnippetViewSet(viewsets.ModelViewSet):
+  queryset = Snippet.objects.all()
+  serializer_class = SnippetSerializer
